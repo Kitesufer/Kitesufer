@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kitesufer
+- 👋 Hi, I’m @Kitesurfer
 - 👀 I’m interested in developing AI/ML foundation models that democratize machine learning for the masses.
 - 🌱 I’m currently learning the business side of AI/ML foundation models.
 - 💞️ I’m looking to collaborate on engineering.
